@@ -19,7 +19,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/cloudbox-backend.git
+git clone 
 cd cloudbox-backend
 Install dependencies
 
@@ -36,7 +36,7 @@ bash
 Copy
 Edit
 npm start
-The backend server will be available at http://localhost:5000/.
+The backend server will be available at http://localhost:3001/.
 
 🛠️ Technologies Used
 Node.js: JavaScript runtime for server-side logic.
