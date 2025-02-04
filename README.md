@@ -19,7 +19,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone 
+git clone git@github.com:buildwithimran/cloudbox-backend.git
 cd cloudbox-backend
 Install dependencies
 
